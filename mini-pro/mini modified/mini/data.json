@@ -1,0 +1,98 @@
+{
+    "code": 200,
+    "data": {
+      "items": [
+        {
+          "name": "image1",
+          "description": "Test img1",
+          "image": "https://picsum.photos/200/200?random=89",
+          "price": 4796357,
+          "type": "service",
+          "id": "a1"
+        },
+        {
+          "name": "image2",
+          "description": "Test img2",
+          "image": "https://picsum.photos/200/200?random=91",
+          "price": 4796358,
+          "type": "service",
+          "id": "a2"
+        }
+        ,
+        {
+          "name": "image3",
+          "description": "Test img3",
+          "image": "https://picsum.photos/200/200?random=90",
+          "price": 4796359,
+          "type": "service",
+          "id": "a3"
+        },
+        {
+            "name": "image4",
+            "description": "Test img4",
+            "image": "https://picsum.photos/200/200?random=80",
+            "price": 4796357,
+            "type": "facility",
+            "id": "a4"
+          },
+          {
+            "name": "image5",
+            "description": "Test img5",
+            "image": "https://picsum.photos/200/200?random=91",
+            "price": 4796358,
+            "type": "facility",
+            "id": "a5"
+          }
+          ,
+          {
+            "name": "image6",
+            "description": "Test img6",
+            "image": "https://picsum.photos/200/200?random=92",
+            "price": 4796359,
+            "type": "facility",
+            "id": "a6"
+          },
+          {
+            "name": "image7",
+            "description": "Test img7",
+            "image": "https://picsum.photos/200/200?random=93",
+            "price": 4796357,
+            "type": "facility",
+            "id": "a1"
+          },
+          {
+            "name": "image8",
+            "description": "Test img8",
+            "image": "https://picsum.photos/200/200?random=94",
+            "price": 4796358,
+            "type": "service",
+            "id": "a8"
+          }
+          ,
+          {
+            "name": "image9",
+            "description": "Test img9",
+            "image": "https://picsum.photos/200/200?random=95",
+            "price": 4796359,
+            "type": "service",
+            "id": "a9"
+          },
+          {
+              "name": "image12",
+              "description": "Test img17",
+              "image": "https://picsum.photos/200/200?random=82",
+              "price": 4796357,
+              "type": "facility",
+              "id": "a4"
+            },
+            {
+                "name": "image13",
+                "description": "Test img13",
+                "image": "https://picsum.photos/200/200?random=80",
+                "price": 4796357,
+                "type": "facility",
+                "id": "a4"
+              }
+      ]
+    }
+  }
